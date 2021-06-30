@@ -18,7 +18,6 @@ const getSWDAta = async (type, input) => {
 };
 
 app.get("/getSWData", async (req, res) => {
-  console.log("hey");
   let type = req.query.type;
   let input = req.query.input;
   let response = await getSWDAta(type, input)

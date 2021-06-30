@@ -1,0 +1,28 @@
+{
+  "name": "swgame",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "NodeJS-ReactExercice for fastory.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aladeen92i/SWGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aladeen92i/SWGame/issues"
+  },
+  "homepage": "https://github.com/aladeen92i/SWGame#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.9"
+  }
+}
