@@ -2,7 +2,9 @@
 
 NodeJS-ReactExercice for fastory.io
 
-The point was to code the functions, that i've been doing in vanilla javascript on http://zpalexander.com/you-cant-javascript-under-pressure/, in a client & a REST API.
+React client that retrieve data from the api, who's calling swapi.dev
+
+"detailled informations" only available for the people type for now
 
 ## Made with **React.js** & **Node.js**
 
